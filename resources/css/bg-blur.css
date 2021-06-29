@@ -1,0 +1,20 @@
+body,
+html {
+    height: 100%;
+    background-color: black;
+    overflow-x: hidden;
+}
+
+#title {
+    text-align: center;
+}
+
+#egg {
+    background-image: '../resources/img/egg_2.png/';
+}
+
+#white {
+    background-color: white;
+    height: 125px;
+    width: 125px;
+}
